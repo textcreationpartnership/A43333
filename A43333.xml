@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of kings and nobles against that ungodly paper called The alarum to the head quarters by T.H.</title>
+            <author>T. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43333</idno>
+            <idno type="STC">Wing H146</idno>
+            <idno type="STC">ESTC R5923</idno>
+            <idno type="EEBO-CITATION">13693650</idno>
+            <idno type="OCLC">ocm 13693650</idno>
+            <idno type="VID">101420</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101420)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 844:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of kings and nobles against that ungodly paper called The alarum to the head quarters by T.H.</title>
+                  <author>T. H.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Nov. 15, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Alarum to the headquarters.</term>
+               <term>Kings and rulers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101420:1"/>
+            <pb facs="tcp:101420:1" rendition="simple:additions"/>
+            <p>A VINDICATION OF KINGS AND NOBLES.</p>
+            <p>Againſt that ungodly paper called, <hi>The Alarum to the head Quarters.</hi>
+            </p>
+            <p>By <hi>T. H.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>R. L. Nov.</hi> 15. 1647.</p>
+            <pb facs="tcp:101420:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101420:2"/>
+            <head>A Vindication of Kings and Nobles, againſt that ungodly paper called, <hi>An Alarm to the head Quarters.</hi>
+            </head>
+            <p>A Vindication and cleering of King <hi>Charles,</hi> againſt that ungodly paper called, <hi>The Alarm to the head Quarters,</hi> that paper ſpeakes malitiouſly and wickedly, againſt the Title, Power, and Perſon of King <hi>Charles</hi> and his poſterity.</p>
+            <p>I hope the head Quarters will not commend ſuch an ungodly Book, for by the helpe of God I ſhall make it plainly appeare by the holy Scriptures, that Kings doe much good, <hi>and bleſſed is the Land where good Kings are:</hi> Therfore let thoſe that deſire Anarchy count themſelves ſlaves to their ſins more then ſlaves to their Kings, if hee rule according to godly Laws, for all their bibble bab<g ref="char:EOLhyphen"/>ling in that booke, ſo leaving them to be wiſe in their own conceits, let us come to ſhew ſomthing of the wiſ<g ref="char:EOLhyphen"/>dome of the word of God, firſt of all, before <hi>Noahs</hi> floud we read of no Kings; and what wickedneſſe was then committed, was not the earth then filled with bloud and violence, ſo that the Lord repented that he had made man upon the earth, and ſo all was deſtroyed but eight perſons, and ſo there was no King in <hi>Judah</hi> nor in <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> when the civill wars began in <hi>Gibath</hi> of <hi>Benjamin,</hi> what a beaſtly act was there committed by this free peo<g ref="char:EOLhyphen"/>ple? how were they inſlaved to their ſins? and would not give up thoſe wicked men to any juſtice, untill ruine and bloudſhed came upon them all, <hi>Judg.</hi> 10. 40. There
+<pb facs="tcp:101420:3"/> was no King in <hi>Iſrael,</hi> when they went tumultuouſly, and wickedly went to burn and ſpoile their Neighbour <hi>Jephtaphs</hi> houſe, <hi>Judges</hi> 12. 1. and many times the peo<g ref="char:EOLhyphen"/>ple of <hi>Iſrael</hi> were oppreſt by the <hi>Midianites,</hi> and by the <hi>Moabites,</hi> and the <hi>Cananites,</hi> untill God raiſed them up a Judge or Generall to go before them and deliver them out of the hands of their enemies, and for their Religi<g ref="char:EOLhyphen"/>on theſe people of <hi>Juda</hi> and <hi>Iſrael</hi> when they had no King but God: they forſook him and did evill in his ſight, and ſerved <hi>Baalim</hi> and <hi>Aſ-ſhateroth,</hi> and the God of <hi>Sy<g ref="char:EOLhyphen"/>ria,</hi> and the gods of <hi>Zydon,</hi> and the gods of <hi>Moab,</hi> and the gods of <hi>Ammon,</hi> and the gods of the <hi>Philiſtims,</hi> and forſooke the Lord, and ſerved him not, <hi>Judg.</hi> 10. 6, 7. And the anger of the Lord was hot againſt <hi>Iſrael:</hi> where then are thoſe men which put all fault in their King for their idolatry? when as the people of <hi>Iſra<g ref="char:EOLhyphen"/>el</hi> without a King, fell ſo much into idolatry, that God Almighty bid them cry unto their falſe gods, he would deliver them no more, <hi>Judg.</hi> 10. 13, 14. Now at laſt all the Elders of <hi>Iſrael</hi> came to <hi>Samuel</hi> at <hi>Ramoth,</hi> and ſaid <hi>Make us a King to judge us like other Nations,</hi> when as yet the Lord their God was their King.</p>
+            <p>And although <hi>Samuel</hi> told them the conditions of a King at large, <hi>Sam.</hi> 8. yet no perſwaſions would prevail, but they would have a King to fight their battels, like all other Nations, and God Almighty bid <hi>Samuel</hi> har<g ref="char:EOLhyphen"/>ken to the people and make them a King, <hi>Sam.</hi> 10. 1. Then <hi>Samuel</hi> tooke a Violl of oyle, and poured upon his head, and kiſſed him, and ſaid, <hi>Is it not becauſe the Lord hath anointed thee to be Captain of his inheritance,</hi> and <hi>ver.</hi> 20. <hi>Saul is choſen of the Lord in publike,</hi> And <hi>ver.</hi> 24. <hi>The people ſhouted and ſaid, God ſave the King.</hi>
+            </p>
+            <p>Now preſently God worketh a deliverance to the
+<pb facs="tcp:101420:3"/> people by his King, for <hi>Chap.</hi> 11. 1. the Amonites came up and beſieged <hi>Iabeſh Gillead,</hi> and would make no Co<g ref="char:EOLhyphen"/>venant, nor ſhew no mercie, but to put out all their right eyes, but King <hi>Saul</hi> gathered the people together and ſlue them, and ſcattered them ſo that there was not two left together, and the people would have ſlain the enemies of King <hi>Saul,</hi> had not the King hindered them.</p>
+            <p>Then after God choſe King <hi>David, Sam.</hi> 16. <hi>Then</hi> Samuel <hi>tooke the horne of oyle, and anointed him in the midſt of his brethren, and the ſpirit of the Lord came upon</hi> David <hi>from that day forward.</hi>
+            </p>
+            <p>Then Kings which come lawfully to be King, are of Gods chooſing: Then let not men rail like <hi>Shimei,</hi> in their words, and in their books, againſt Kings, nor a<g ref="char:EOLhyphen"/>gainſt our King, nor call him bloudy man, as ſome doe in their books, for it is written, <hi>Thou ſhalt not ſpeake evill of the Ruler of the people.</hi>
+            </p>
+            <p>But leaving theſe people to their own conſciences, let us ſpeak ſomthing of the great good that many Kings have done.</p>
+            <p>Some good did King <hi>Saul,</hi> wee reade of little I<g ref="char:EOLhyphen"/>dolatry in his dayes, and hee ſaved the people from the Amorites, hee ſaved them from the Philiſtims, and King <hi>David</hi> mourneth for him, and ſayth, hee taught them to ſhoot, and clothed them in Scarlet, and King <hi>David</hi> after him did great good, God Almighty enabled him to overcome all the Heathen his enemies round about, hee brought renowme to his Nation, and made the <hi>Cananites</hi> and the <hi>Amorites</hi> to pay Tribute, ſo that hee had a great name through out the whole World.</p>
+            <pb facs="tcp:101420:4"/>
+            <p> And for Religion he was moſt excellent, how many Pſalmes of thankſgiving did this worthy King write how mightily did this King ſet out Gods works in the creation of the world, and how doth he record Gods de<g ref="char:EOLhyphen"/>liverance in former times, &amp; how wonderfully did God reveal unto him by the ſpirit of propheſie, the Kingdom of Chriſt, and how did the people and the King rejoyce together in their free will offerings toward the building of the Temple, and in their Sacrifices and feaſting, and then he bleſt them in the name of the Lord, and let them goe. And after his deceaſe, God choſe <hi>Solomon</hi> to bee their King, and he was anointed by the Prophet, proclai<g ref="char:EOLhyphen"/>med with great joy, ſo that the earth rang of the ſhouts of the people: Then why doe Anarchy people ſcoffe at the anointing of Kings, <hi>are they wiſer then their Maker?</hi> ſurely no, and wee finde it no where forbid in the New Teſtament, but wee are commanded to give <hi>Caeſar</hi> his due, and Chriſtian Religion teacheth us to honour the King, and to pray for him and all that are put in authority by him, Saint <hi>Peter</hi> and St. <hi>Paul</hi> were better taught in Chriſts ſchoole then all the Anarchy men in the world. And was not King <hi>Solomon</hi> the wiſeſt man that lived, God almighty loved him, he builded that famous Tem<g ref="char:EOLhyphen"/>ple at <hi>Jeruſalem,</hi> and directed and ordered ſtately and wiſe orders in the Church and Common-wealth, as for his ſins, God gave him repentance, and therefore wee ought to ſpeake little of that, then after his deceaſe, by ſucceſſion for many ages, God raiſed up his ſons to bee Kings, <hi>Rehoboam, Abia, Aſa, Jehoſophat, Ahaziah, Jo<g ref="char:EOLhyphen"/>ram, Jehonas, Amaziah, Azariah, Jotham, Ahaz, Heze<g ref="char:EOLhyphen"/>kias,</hi> and the reſt, till the Captivity. Many of theſe were godly and religious Kings, ſome were, indifferent, and ſome were very bad, yet all were made Kings in order,
+<pb facs="tcp:101420:4"/> 
+               <hi>Abia</hi> had ſom fear of God, and got a mighty victory a<g ref="char:EOLhyphen"/>gainſt <hi>Jeroboam,</hi> and Idoll Prieſts. <hi>Aſa</hi> feared God, and praid unto him, and God gave him a mighty victory over the <hi>Blackmoores</hi> and <hi>Lubines,</hi> which came to invade his Land, they had fared ſo well in his Grandfather <hi>Rehobo<g ref="char:EOLhyphen"/>ams</hi> time, becauſe he had fallen to idolatry, that they came again, but he made them fly to <hi>Gaza,</hi> and took ſheep and oxen, and an exceeding great ſpoyle, and <hi>Jehoſaphat</hi> feared God, and maintained righteouſneſſe and true ju<g ref="char:EOLhyphen"/>ſtice, charging the Judges to do no wrong: And when he and the people faſted and prayed, when three Kings with all their power, came up with all their hoſts, the Lord heard their prayers, and raiſd up a Prophet to tell them that they ſhould not be afraid of them, but ſhould goe out againſt them, and ſo the Lord ſent ſtrife among the Hea<g ref="char:EOLhyphen"/>then Kings, that they deſtroyed one another in ſuch abun<g ref="char:EOLhyphen"/>dance, that the people were three dayes a gathering the riches which they left upon the ground.</p>
+            <p>Thus God helped thoſe good Kings, <hi>Hezekiah</hi> and <hi>Jo<g ref="char:EOLhyphen"/>ſias,</hi> many good Kings hath God ſent amongſt his people, and in many places we ought to judge ſo, and not to cry out ſlavery becauſe there are degrees of men one above an other, they that are great and ſtrong ſhould help the needy and oppreſſed, and pull the prey out of their ſtrength which they have taken from the ſimple widows and father leſſe children. I hope none of theſe Anarchy people which are againſt Kings and Nobles, I hope none of them will ſpeak againſt the King of Saints in heaven: for there are degrees of glory in heaven, yet all are free, one ſtar diffe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth in glory above another, yet they ſhould keepe their places, <hi>Godlineſſe is great gain, if a man be content with his eſtate:</hi> And here in <hi>England,</hi> God Almigty hath ſent us many good Kings, Queens, and Nobles, although this
+<pb facs="tcp:101420:5"/> Alarum paper doth envy all the <hi>Norman</hi> Race and Orders of Lords, yet wee have had godly, learned, wiſe and va<g ref="char:EOLhyphen"/>liant Kings and Nobles in this Land as any other. What valiant <hi>Edwards</hi> have we had in this Land, which conque<g ref="char:EOLhyphen"/>red that great Kingdom of <hi>France,</hi> and made them pay tribute? And King <hi>Henry</hi> the Seventh how valiant hee was to pull the Kingdome out of the Uſurper and Ty<g ref="char:EOLhyphen"/>rants hand <hi>Richard</hi> the Third. How wiſe and prudent was he in bringing <hi>Englands</hi> peace again, how juſt was hee in ſitting in Courts of Juſtice many times himſelf: What buildings did he build at <hi>Weſtminſter?</hi> How valiant was his ſonne <hi>Henry</hi> the Eighth, and <hi>Edward</hi> the Sixth? what care had he of Religion? how charitable was hee to the poore Orphans of the City of <hi>London</hi> can tell, then Queen <hi>Elizabeth,</hi> how conſtant was ſhe in the Proteſtant Religion? how learned in Languages? how wiſe and lo<g ref="char:EOLhyphen"/>ving to the people? then King <hi>James</hi> a man very learned and peaceable: And now King <hi>Charles</hi> hath a great many good conditions. Who can tell what favour the Lord will ſhew him. Yet then I pray (good brother and ſiſter) to them that cry out thou art in ſlavery under Kings and Nobles, in this wicked paper called, <hi>The Alarm to the head Quarters,</hi> have yee not a double heart, and would you not have the brambles Kings of the Forreſt, if it be ſo, change your mindes, for certainly God Almighty will keepe better order in the world, therefore with the Apo<g ref="char:EOLhyphen"/>ſtles let us pray for Kings and Governours, that under them we may live a free and godly life, in peace and ho<g ref="char:EOLhyphen"/>neſty.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>I. Downame.</signed>
+            </closer>
+            <pb facs="tcp:101420:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
